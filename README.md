@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/YoungYannick/YoungYannick/main/banner_cropped.png" alt="YoungYannick's Banner" style="width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/YoungYannick/YoungYannick/main/banner.png" alt="YoungYannick's Banner" style="width: 100%; height: auto;">
 
 # 欢迎来到 YoungYannick 的 GitHub 主页 👋
 
@@ -9,8 +9,8 @@
 ## 📊 GitHub 统计
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoungYannick&show_icons=true&bg_color=45,FFB6C1,ADD8E6&text_color=000000&title_color=000000&icon_color=000000" alt="YoungYannick's GitHub Stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungYannick&layout=compact&bg_color=45,FFB6C1,ADD8E6&text_color=000000&title_color=000000" alt="Top Languages" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoungYannick&show_icons=true&bg_color=45,FFB6C1,ADD8E6&text_color=000000&title_color=000000&icon_color=000000" alt="YoungYannick's GitHub Stats" style="width:50%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungYannick&layout=compact&bg_color=45,FFB6C1,ADD8E6&text_color=000000&title_color=000000" alt="Top Languages" style="width: 45%; height: auto;">
 </div>
 
 ---
